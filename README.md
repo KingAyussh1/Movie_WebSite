@@ -1,11 +1,11 @@
 # Movie_Website
 
-# Backend Stack:
+## Backend Stack:
 Spring
 
-# Dependiecies required:
+## Dependencies required:
 Lombok, Spring Web, Spring Data MongoDB, Spring Boot DevTools
 
-# Database:
+## Database:
 MongoDB
 
